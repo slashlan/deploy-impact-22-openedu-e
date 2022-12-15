@@ -1,11 +1,7 @@
-# Deploy-impact-22-openedu-e
-
+# New OpenEdu platform (Wikimedia CH) - Deploy impact 2022
 <p align="center">
-  <a href="" rel="noopener">
- <img src="https://user-images.githubusercontent.com/37207832/202691843-84df34e0-180e-40ee-b70d-5a2b37bb5ea2.png" alt="Group logo" width="800" height="200">
     <br></br>
- <img src="https://user-images.githubusercontent.com/37207832/199510757-5fde0b18-bd73-49bc-8c32-1a8827dcdf81.png" alt="Project logo" width="200" height="70">
-
+ <img src="https://user-images.githubusercontent.com/37207832/199510757-5fde0b18-bd73-49bc-8c32-1a8827dcdf81.png" alt="Project logo" width="500" height="150">
 
 </a>
 </p>
@@ -16,13 +12,7 @@
   ![Status](https://img.shields.io/badge/Status-Developing-blueviolet.svg) 
 
 
-
 </div>
-
----
-
-<p align="center"> 
-Different schools and universities would love to benefit from the advantages to have collaborative, shared educational material and prevent duplication of content. When planning an educational activity, the entities involved wish to use existing online material in order to ease the teachers life and to avoid duplication of materials. The existing material on the Internet is complex to find and very confusing. One thing that can save a lot of time is to be able to search a database with this amount of structured data (and directly contact the authors of the research/material).
 <br> 
 </p>
 
@@ -37,7 +27,7 @@ Different schools and universities would love to benefit from the advantages to 
 - [Resources](#resources)
 
 ## 🧐 Problem Statement <a name = "problem_statement"></a>
-In the center of attention there is OpenEdu.ch which is the open education resources (OER) platform. Its mission is enabling sharing OER for teaching and learning, collaboration between educators in creating and reusing materials.
+OpenEdu.ch is an open education resources (OER) platform. Its mission is to enable the sharing of OER resources and fostering collaboration between educators, OER creators and students.
 
 #### IDEAL: <br> 
 - The content of the website is easy to navigate and the search functionality is intuitive and provides sufficient and organized information to the users of the portal with suggestions of other related entries. <br> 
@@ -60,8 +50,14 @@ In the center of attention there is OpenEdu.ch which is the open education resou
 
 
 ## 💡 Idea / Solution <a name = "idea"></a>
-The prepared solution is a knowledge management and discovery tool for OpenEdu.ch.
-Our product includes elements and workflows of streamlined uploading process, as well as moderation of the new content uploaded manually or automatically as a result of discovery of new relevant resources.  
+A complete revision of the knowledge management platform as well as the uploading and moderation processes of the OpenEdu.ch platform.
+In a nutshell, our product includes:
+- Knowledge management system based on a new ontology that is thorough, flexible and scalable
+- User-friendly navigation of the ontology based on filters
+- Powerful multi-language search engine based on semantic similarity
+- Streamlined uploading processes for new educational materials from the OpenEdu community
+- Refined moderation system to prevent content duplications and copyright violations.  
+
 <p align="center">
 <a href="" rel="noopener">
   <img src="https://user-images.githubusercontent.com/37207832/202766910-7e2b231b-e6d3-4119-9bda-7e80d299e51f.png" alt="Overview" width="660" height="380">
@@ -80,14 +76,6 @@ Our value proposition is **AI Engine** encompassing the following:
 - Semantic Search for enriched results of the content querying
 - Figma Prototype with UI/UX Design
 - Extending the available content by suggesting new relevant content with web scrapers.
-
-To Enable a **structured, user-friendly, Informative, moderated, collaborative, and inclusive** Platform!
-
-<p align="center">
-<a href="" rel="noopener">
-<img src="https://user-images.githubusercontent.com/37207832/202767064-dd8d1011-79fb-45ee-8a0c-ae22fde70e1c.png" alt="Overview" width="650" height="380">
-</a>
-</p>
 
 
 ## Repository Structure: 
@@ -119,8 +107,6 @@ The further development suggested by us, considers shifting the infrastructure t
 
 - Ontology extensions:  Recommender-based ontology design for discovery of new topics, implementing conceptualization of how to expand the ontology by including learning paths, ratings etc, and adding user-reviewing functionalities to the platform.
 
-- A/B Testing: Experiments for assessing multiple website alternatives by users for statistical analysis to further refine the user journey.
-
 - NLP: Introducing the algorithmic user-based recommendation for more targeted suggestions.   
 
 ## Prerequisites
@@ -141,13 +127,13 @@ Requirements of the installed packages and versions are described in the domain-
 
 ## ✍️ Authors <a name = "authors"></a>
 
-- Yasmine Mohamed, [@YasmineM311](https://github.com/YasmineM311) 
-- Ibtihel Ouni, [@Ibtihel-ouni](https://github.com/Ibtihel-ouni)
-- Chueh Yang, [@cyyang50](https://github.com/cyyang50)
-- Anna Wojcieszek [@annopol](https://github.com/annopol) - Contact person
 - Marco Pistis [@slashlan](https://github.com/slashlan)
+- Yasmine Mohamed, [@YasmineM311](https://github.com/YasmineM311) 
+- Chueh Yang, [@cyyang50](https://github.com/cyyang50)
+- Anna Wojcieszek [@annopol](https://github.com/annopol)
 - Sonia Vigolo, [@s-vigolo](https://github.com/s-vigolo)
 - Gilda Fernandez-Concha, [@gildafc](https://github.com/gildafc)
+- Ibtihel Ouni, [@Ibtihel-ouni](https://github.com/Ibtihel-ouni)
 
 ## Resources
 
