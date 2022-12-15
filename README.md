@@ -1,4 +1,4 @@
-# New OpenEdu platform (Wikimedia CH) - Deploy impact 2022
+# OpenEdu platform (Wikimedia CH) - Deploy impact 2022
 <p align="center">
     <br></br>
  <img src="https://user-images.githubusercontent.com/37207832/199510757-5fde0b18-bd73-49bc-8c32-1a8827dcdf81.png" alt="Project logo" width="500" height="150">
